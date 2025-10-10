@@ -1,0 +1,9 @@
+>nano problem1.c
+
+
+>gcc problem1.c -o problem1 -lpthread
+>./problem1
+
+
+
+

@@ -1,0 +1,8 @@
+unzip task4.zip
+gcc sort.c -o sort
+gcc oddeven.c -o oddeven
+gcc main.c -o main
+
+./sort 5 2 9 1
+./oddeven 5 2 9 1
+./main

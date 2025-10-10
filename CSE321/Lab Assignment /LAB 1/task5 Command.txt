@@ -1,0 +1,3 @@
+unzip task5.zip
+gcc task5.c -o task5
+./task5
